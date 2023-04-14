@@ -16,8 +16,8 @@ The app takes in the following features of the property as input:
 - Distance to nearest public transportation: The distance to the nearest public transportation (in miles)
 - Distance to nearest shopping mall: The distance to the nearest shopping mall (in miles), etc.
 
-Machine Learning Model
-The app uses a machine learning model to predict the price of the property based on the above input features. The model has been trained on a dataset of properties with known prices and features.
+## AIM
+The app uses a machine learning model to predict the price of the property based on the above input features. The model has been trained on a dataset of properties with known prices and features and predicts range of newly listed properties based on given features 
 
 The model uses a combination of ensemble linear regression to make its predictions. The model has an accuracy of 85% on the test dataset.
 
