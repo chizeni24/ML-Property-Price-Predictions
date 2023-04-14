@@ -2,7 +2,7 @@
 This is a web application deployed in Heroku using FastAPI Framework that predicts the price of a property based on certain features of the property using machine learning. 
 
 ## Model Build Architecture
-![Screenshot](Deployment Approach.png)
+![Screenshot](https://github.com/chizeni24/ML-Property-Price-Predictions/blob/main/Deployment%20Approach.png)
 
 ### Features
 The app takes in the following features of the property as input:
@@ -21,7 +21,7 @@ The app uses a machine learning model to predict the price of the property based
 The model uses a combination of ensemble linear regression to make its predictions. The model has an accuracy of 85% on the test dataset.
 
 ## Deployment Architect 
-![Screenshot](Deployment Architecture.png)
+![Screenshot](https://github.com/chizeni24/ML-Property-Price-Predictions/blob/main/Deployment%20Architecture.png)
 ## Requirements
 The app requires Python 3.7 or higher and all the dependencies in the requirement.txt files.
 To install the app, clone this repository and navigate to the root directory of the project. Then run the following command:
