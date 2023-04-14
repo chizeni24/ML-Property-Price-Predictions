@@ -35,4 +35,4 @@ def predict_price(data: ProperyPricePred):
 # # 5. Run the API with uvicorn
 # #    Will run on http://127.0.0.1:8005
 if __name__ == '__main__':
-    uvicorn.run("app:PropertyPricePredApp",host='127.0.0.1', port=8005, reload=True, workers=3)
+    uvicorn.run("app:PropertyPricePredApp",host='127.0.0.1', debug=True,port=8005, reload=True, workers=3)
