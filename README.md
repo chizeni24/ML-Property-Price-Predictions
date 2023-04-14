@@ -4,7 +4,7 @@ This is a web application deployed in Heroku using FastAPI Framework that predic
 ## Model Build Architecture
 ![Screenshot](https://github.com/chizeni24/ML-Property-Price-Predictions/blob/main/Deployment%20Approach.png)
 
-### Features
+## Features
 The app takes in the following features of the property as input:
 
 Location: The location of the property
